@@ -22,6 +22,7 @@ h1 {
 body {
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
+    width: 1400px;
 }
 
 .banner-content {
@@ -101,4 +102,27 @@ a {
 .design {
     border: 2px solid rgba(241, 38, 89, 0.795);
     background-color: rgba(231, 55, 99, 0.247);
+}
+
+.anchor-2 {
+
+    padding: 10px;
+
+
+    background-color: rgba(202, 66, 17, 0.904);
+    border-radius: 7px;
+    text-align: center;
+    width: 100px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.inout-amount {
+    width: 250px;
+    height: 40px;
+}
+
+.input {
+    margin-left: 600px;
+    margin-top: 20px;
 }
