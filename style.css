@@ -56,6 +56,26 @@ a {
     border-radius: 7px;
     text-align: center;
     width: 100px;
-    margin-left: 350px;
+    margin-left: 320px;
+    margin-right: 350px;
 
+
+}
+
+
+.middle h1 {
+    color: black;
+    font-size: 40px;
+}
+
+
+.middle p {
+    color: black;
+
+}
+
+.middle-part {
+
+    margin-left: 200px;
+    margin-right: 200px;
 }
