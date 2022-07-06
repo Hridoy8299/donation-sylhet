@@ -132,3 +132,15 @@ a {
     margin-left: 150px;
     margin-right: 150px;
 }
+
+.system {
+
+    width: 400px;
+    height: 150px;
+    margin: 40px;
+}
+
+.beautiful {
+    display: flex;
+    margin-left: 150px;
+}
